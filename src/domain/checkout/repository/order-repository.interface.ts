@@ -1,4 +1,4 @@
-import RepositoyInterface from "../../@shared/event/repository/repository.interface";
+import RepositoyInterface from "../../@shared/repository/repository.interface";
 import Order from "../entity/order";
 
 export default interface OrderRepositoryInterface
